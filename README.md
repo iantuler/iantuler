@@ -87,7 +87,7 @@ I am seeking challenges that push me to develop innovative solutions, enhance my
 
 
 <h2 align="left">Git Currently Status:</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iantuler&show_icons=true&locale=en&layout=compact" alt="iantuler" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iantuler&show_icons=true&locale=en&layout=compact&theme=dark" alt="iantuler" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iantuler&show_icons=true&locale=en" alt="iantuler" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iantuler&show_icons=true&locale=en&theme=dark" alt="iantuler" /></p>
 
