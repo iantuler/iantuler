@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Ian Tuler also knows as tulin </h1>
+<h1 align="center">Hi , I'm Ian Tuler also known as tulin </h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
