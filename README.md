@@ -17,7 +17,7 @@
 
 <h3 align="left"> A bit about myself </h3>
 <p align="center">
-  I am 27 years old and I am an open-minded person. I love to appreciate the complex simplicity of life. I cherish my family, my pets, my girlfriend, and I also enjoy taking care of myself. I enjoy being among friends and I also like meeting new people, exploring new places, having new experiences, meeting new people, and finding new ways to do old actions.
+  I am 27 years old and I am an open-minded person. I love to appreciate the complex simplicity of life. I cherish my family, my pets, and I also enjoy taking care of myself. I enjoy being among friends and I also like meeting new people, exploring new places, having new experiences, meeting new people, and finding new ways to do old actions.
 
 My professional journey combines a passion for technology with an insatiable thirst for learning, along with a collaborative approach to projects. I have solid experience in Python and VBA programming, with a special focus on task automation, report generation, data analysis, process refinement, and data analysis to drive operational efficiency within teams.
 
