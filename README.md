@@ -12,7 +12,7 @@
 - 🔭 I’m currently working at **[ORULO](https://www.orulo.com.br/), the biggest Brazilian platform for new properties**
 - 🌱 I’m currently learning **Django/Rest, FastAPI, and always looking for new solutions**
 - 👨‍💻 All of my projects are available at [My own GitHub](https://github.com/iantuler)
-- 📫 How to reach me: **iantuler@hotmail.com**
+- 📫 How to reach me: **iantuler@gmail.com**
 - ⚡ Fun fact: **One of my favorite hobbies is sparring in Muay Thai on Fridays with my friends**
 
 <h3 align="left"> A bit about myself </h3>
