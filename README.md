@@ -77,9 +77,6 @@ I am seeking challenges that push me to develop innovative solutions, enhance my
   <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi">
     <img src= "https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBi">
   </a>
-  <a href="https://www.canva.com/pt_br/">
-    <img src= "https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white alt="Canva">
-  </a>
   <a href=https://www.microsoft.com/pt-br/microsoft-365/excel>
     <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
   </a>
